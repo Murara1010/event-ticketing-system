@@ -1,19 +1,21 @@
-# Event Ticketing System 🎟
+# Event Ticketing System 🎫
+
+## Description
+A full-stack web application where users can create events and purchase tickets. The system prevents overbooking and manages event capacity.
 
 ## Features
-- Create events
-- Manage organizers and venues
+- Create events with organizers and venues
 - Buy tickets
 - Prevent overbooking
+- View tickets sold and remaining capacity
 
 ## Tech Stack
-- React
-- Node.js
-- Express
-- PostgreSQL
-- Sequelize
+- Frontend: React (Vite)
+- Backend: Node.js, Express
+- Database: PostgreSQL
+- ORM: Sequelize
 
-## Setup
+## How to Run
 
 ### Backend
 cd backend
