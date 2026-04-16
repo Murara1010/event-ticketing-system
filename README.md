@@ -1,4 +1,7 @@
-# Event Ticketing System 🎟
+# Event Ticketing System 🎫
+
+## Description
+A full-stack web application where users can create events and purchase tickets. The system prevents overbooking and manages event capacity.
 
 ## Features
 - Create events with organizers and venues
