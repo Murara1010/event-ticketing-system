@@ -1,4 +1,4 @@
-# Event Ticketing System 🎟
+# Event Ticketing System 🎫
 
 ## Features
 - Create events
